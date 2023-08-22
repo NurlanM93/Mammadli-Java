@@ -1,0 +1,12 @@
+Code:
+    - Code for algorithmic questions is inside the html files
+    - Open file with any browser that available
+
+Question:
+    - Given a bracket sequence: [((())()(())]]
+    - Can this sequence be considered correct?
+    - If the answer to the previous question is "no", then what needs to be changed in it to make it correct?
+
+Answer: 
+    - Nope , this sequence is not correct because of this extra - ]
+    - Correct format: [((())()(())]
